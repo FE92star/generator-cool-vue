@@ -49,6 +49,8 @@ yo cool-vue
       }
     }
   ```
+## 参考博客地址
+[大前端的自动化工厂-Yeoman](https://blog.51cto.com/13869008/2156020)
 
 ## License
 
