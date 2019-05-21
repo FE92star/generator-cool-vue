@@ -16,13 +16,11 @@ Then generate your new project:
 yo cool-vue
 ```
 
-## Getting To Know Yeoman
-
- * Yeoman has a heart of gold.
- * Yeoman is a person with feelings and opinions, but is very easy to work with.
- * Yeoman can be too opinionated at times but is easily convinced not to be.
- * Feel free to [learn more about Yeoman](http://yeoman.io/).
-
+## 本项目用于构建自定义脚手架模板——cool-vue
+  * 用于快捷搭建自定义项目模板，流程如下：
+    1. 本地全局安装yeoman，以及generator-cool-vue;
+    2. 运行 yo cool-vue即可创建项目模板。
+    
 ## License
 
 MIT © [supermao](https://github.com/MbMin)
