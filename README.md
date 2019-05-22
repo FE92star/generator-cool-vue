@@ -23,7 +23,7 @@ yo cool-vue
   * yeoman-generator的生命周期
   ```js
     module.exports = class extends Generator {
-      initianlizing() {
+      initializing() {
         // 获取当前项目状态，获取基本参数等
       }
       prompting() {
