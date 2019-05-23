@@ -39,6 +39,12 @@ module.exports = class extends Generator {
         name: 'version',
         message: '请输入项目版本号（1.0.0）',
         default: '1.0.0'
+      },
+      {
+        type: 'input',
+        name: 'email',
+        message: '请输入您的邮箱地址',
+        default: '1737764939@qq.com'
       }
     ];
 
@@ -72,7 +78,7 @@ module.exports = class extends Generator {
     const { name } = this.props
     console.log();
     console.log(chalk.cyan('  cd'), name);
-    console.log(chalk.cyan('npm run build/yarn run build'));
+    console.log(chalk.cyan('npm run start'));
     console.log(chalk.cyan('编码愉快'));
   }
 };
