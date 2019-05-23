@@ -65,6 +65,9 @@ yo cool-vue
 
 MIT © [supermao](https://github.com/MbMin)
 
+## 文献
+[参考博客](https://juejin.im/post/5b7a24a5e51d4538da22d055)
+
 
 [npm-image]: https://badge.fury.io/js/generator-cool-vue.svg
 [npm-url]: https://npmjs.org/package/generator-cool-vue
